@@ -1,0 +1,13 @@
+
+.a{
+   border: solid 70px;
+   
+   border-image: url('ramka.png') 100;
+   padding: 30px;
+   font-size: 30px ;
+   font-style: italic;
+   font-weight: bold;
+   text-align: left;
+   text-shadow: 5px 5px 3px rgb(229, 179, 179);
+
+}
